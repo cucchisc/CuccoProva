@@ -1,0 +1,4 @@
+com\cucco\ejbclient\EJBClientGeneral.class
+com\cucco\ejbclient\EJBBankClient.class
+com\cucco\ejbclient\EJBRemoteClientStateless.class
+com\cucco\ejbclient\EJBRemoteClientStatefull.class
